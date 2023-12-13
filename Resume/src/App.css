@@ -1,0 +1,9 @@
+/* Apply dark mode styles to the entire home page */
+
+body {
+  background-color:  #111827; /* Set background color to a dark shade */
+  color: #ffffff; /* Set text color to white or a light color for better contrast */
+}
+
+
+
